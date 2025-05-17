@@ -27,7 +27,7 @@ This project demonstrates a real-time client-server application for speech recog
 - pip install playsound pyttsx3 pyaudio speechrecognition wave
 - run server.py
 - run client.py
-- 
+  
 ### Interaction
 - The client will record audio for 10 seconds.
 - You'll be prompted to enter a text message.

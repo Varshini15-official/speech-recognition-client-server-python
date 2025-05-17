@@ -49,5 +49,6 @@ This project demonstrates a real-time client-server application for speech recog
 - Managed real-time audio streaming and encoding
 - Gained hands-on experience in Python networking and audio processing
 
-
+👩‍💻 Author
+Developed by Varshini15-official
 
